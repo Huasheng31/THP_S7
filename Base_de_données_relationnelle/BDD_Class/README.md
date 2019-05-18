@@ -1,7 +1,12 @@
 # README
 
-BDD de Class
+- Base de données d'une Classe:
 
-Initialisation faite a partir du seed, BDD consultable avec SQLite Browser.
+## UTILISATION
+- Mode d'emploi :
+	> Git clone | téléchargement
+	> bundle install
+	> rails db:migrate
+	> rails db:seed
 
-(au besoin, effacer les tables dans la BDD et lancer la commande rails db:seed)
+- Base de données consultable avec SQLite Browser.

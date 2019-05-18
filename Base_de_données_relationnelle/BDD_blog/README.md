@@ -1,7 +1,12 @@
 # README
 
-Gerard GOACHET
+- Base de données d'un blog simple:
 
-Repo du Blog en BDD
+## UTILISATION
+- Mode d'emploi :
+	> Git clone | téléchargement
+	> bundle install
+	> rails db:migrate
+	> rails db:seed
 
-Initialisation faite a partir du seed, BDD consultable avec SQLite Browser.
+- Base de données consultable avec SQLite Browser.

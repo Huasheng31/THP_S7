@@ -1,13 +1,13 @@
 # README
-Yann BONNARD et Gerard GOACHET
-# BDD de AirBnChien
 
-Initialisation faite a partir du seed. 
+- Base de données d'AirBnB mais avec des chiens:
+- Projet de Yann BONNARD et Gerard GOACHET
 
-Mode d'emploi :
-1-clonage || download
-2-bundle install
-3-rails db:migrate
-4-rails db:seed
+## UTILISATION
+- Mode d'emploi :
+	> Git clone | téléchargement
+	> bundle install
+	> rails db:migrate
+	> rails db:seed
 
-BDD consultable avec SQLite Browser.
+- Base de données consultable avec SQLite Browser.

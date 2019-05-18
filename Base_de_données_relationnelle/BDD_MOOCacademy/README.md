@@ -1,7 +1,12 @@
 # README
 
-BDD de MOOCacademy
+- Base de données faisant correspondre des classes et des cours:
 
-Initialisation faite a partir du seed, BDD consultable avec SQLite Browser.
+## UTILISATION
+- Mode d'emploi :
+	> Git clone | téléchargement
+	> bundle install
+	> rails db:migrate
+	> rails db:seed
 
-(au besoin, effacer la BDD et lancer la commande rails db:seed)
+- Base de données consultable avec SQLite Browser.

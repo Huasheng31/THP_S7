@@ -1,14 +1,13 @@
-# Projet_FreeDoc
-Yann BONNARD et Gerard GOACHET
+# README
 
-# BDD de Freedoc
+- Base de données attribuant des docteurs a des villes et des patients a des docteurs:
+- Projet de Yann BONNARD et Gerard GOACHET
 
-Initialisation faite a partir du seed. 
+## UTILISATION
+- Mode d'emploi :
+	> Git clone | téléchargement
+	> bundle install
+	> rails db:migrate
+	> rails db:seed
 
-Mode d'emploi :
-1-clonage || download
-2-bundle install
-3-rails db:migrate
-4-rails db:seed
-
-BDD consultable avec SQLite Browser.
+- Base de données consultable avec SQLite Browser.

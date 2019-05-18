@@ -1,9 +1,7 @@
-# Paire Gerard GOACHET et Lauren OLIVIER.
+# Gerard GOACHET et Lauren OLIVIER.
 
-<h1>Bienvenue sur le repo de la team !</h1>
-
-<h3>Merci d'etre venus :)</h3>
-
+<h1>Bienvenue sur le dépôt de la team !</h1>
+<h3>Merci d’être venus :)</h3>
 <h2><u>A la reception:</u></h2>
 
 * Lancez le bundle install
@@ -13,18 +11,12 @@
 
 <h2><u>Adresses couvertes:</u></h2>
 
-* Homepage :
-* http://localhost:3000/home
-
-* Page de presentation de la Team :
-* http://localhost:3000/team
-
-* Page de Contact :
-* http://localhost:3000/contact
-
-* URL Cachee :
-* http://localhost:3000/welcome/Ce_que_tu_veux
+* [Homepage](http://localhost:3000/home)
+* [Page de presentation de la Team](http://localhost:3000/team)
+* [Page contact](http://localhost:3000/contact)
+* URL Cachée :
+	* http://localhost:3000/welcome/**your_input_here**
 
 * Liens vers les auteurs et les potins (gossips) differents :
-* http://localhost:3000/gossip/1[...]60
-* http://localhost:3000/auteur/1[...]60
+	* http://localhost:3000/gossip/1[...]60
+	* http://localhost:3000/auteur/1[...]60
