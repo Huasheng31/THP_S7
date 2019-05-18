@@ -10,7 +10,7 @@ Dépôt du projet traitant des Arrays et les Hash !
 
 * 00_journalists
 
-	> Utilise un array de pseudonymes twitter et utilise des méthodes Ruby et les expressions régulières pour le manipuler.
+	> Utilise un array de pseudonymes twitter et utilise des méthodes Ruby et les expressions régulières pour le manipuler, le tout dans un menu en case.
 
 * 01_cryptocurrencies
 	
