@@ -1,0 +1,14 @@
+<h1 style="font-size:50px"><b>Bienvenue sur la page d'accueil du site de gossip !!!</b></h1>
+<h1><u>Passons tout de suite au choses serieuses !</u></h1>  
+  <% Gossip.all.each do |gossip| %>
+
+<h1>
+  <div>
+  	<hr />
+    Le gossip : <b><%= gossip.title %></b><%= link_to " acceder au gossip", controller: "pages", action: "gossip", id: gossip.id %><br/>
+    L'auteur: <b><%= User.find(gossip.user_id).first_name %></b><%= link_to " acceder a l'auteur", controller: "pages", action: "auteur", id: User.find(gossip.user_id) %></br>
+    <hr />
+      <% end %>
+    <br>
+  </div>
+</h1>
