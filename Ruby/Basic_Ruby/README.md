@@ -1,4 +1,4 @@
-#Exercices et algorythmie basique en Ruby
+# Exercices et algorythmie basique en Ruby
 
 ## Utilisation:
 - Lancer le terminal et taper:
